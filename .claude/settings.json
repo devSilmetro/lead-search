@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "lead-search-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "BayramAnnakov/lead-search-plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "lead-search@lead-search-marketplace": true
+  }
+}
