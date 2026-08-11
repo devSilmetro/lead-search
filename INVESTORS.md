@@ -115,10 +115,30 @@ These are *proven category buyers at early stage* — the portfolio-overlap argu
 5. **CVCs for pilots now, money later** (Motorola, Allegion) — a paid pilot from them is worth more than their check at this stage.
 6. **NewSchools grant application** — non-dilutive, runs in parallel with everything.
 
-## Data gaps to close (via Crunchbase MCP when access is available)
+---
 
-- Responder Ventures + Govtech Fund current-fund status and dry powder
-- Octave Ventures partner names; MD One check-size conflict
-- Which Urban Innovation Fund partner owns public safety
-- Ambient.ai / Prepared a16z partner attribution; Coram seed lead confirmation
-- Contact enrichment (emails/LinkedIn) and warm-intro mapping for the full list
+# Crunchbase enrichment (live data, pulled 2026-08-11)
+
+Ten priority funds verified against live Crunchbase profiles (activity, recent deals, team, contacts).
+
+## ⚠️ Status change from this data
+
+- **Responder Ventures — DOWNGRADE.** Profile confirms only 8 lifetime investments, the last in Dec 2018 (Blueforce Development Series A); RapidSOS Series A (2017) remains its marquee deal. Effectively dormant — treat founders Bryce Stirton / Dennis Weiner / Nathanial Wish as **network and advisory contacts, not a live check**. Contact: info@responderventures.com, 877-966-9455 (West Palm Beach, FL).
+- **Tribeca Venture Partners — soften.** Active, but recent deals skew Series B–D fintech/travel (Vendelux B lead, Fora D); no recent seed in sight. Keep for Series A, not first check. Contact: info@tribecavp.com, 212-966-9333; Brian Hirsch (Managing Partner), Chip Meakem.
+
+## Confirmed active at seed — strengthen these
+
+| Fund | Live evidence (2025–26) | Team / contact |
+|---|---|---|
+| **Urban Innovation Fund** (SF) | Actively **leading** seeds: Sent $3.55M seed (lead, May 2025), Exante $2.6M seed (lead, Apr 2025), Moritz $9M pre-seed (2026), TestParty $4M seed (lead). 81 investments, 13 leads | Clara Brenner + Julie Lein (co-founders/MPs — two-partner shop, either can be approached) · info@urbaninnovationfund.com |
+| **Shield Capital** (SF) | Leading seeds in 2026: UFORCE $50M seed (lead, Mar), Autonomous Cyber $12M seed (lead, May); Star Catcher Series A lead. 47 investments, 18 leads | Raj Shah, Philip Bilden (MPs), Michael Brown (Partner), David Rothzeid (Principal) · 415-326-6150 · linkedin.com/company/shieldcap |
+| **Squadra Ventures** (Baltimore) | Led Volund $12M seed (Jun 2026), Copia $26M round (lead, Jun 2026); Shift5, Nudge Security follow-ons. 31 investments, 16 leads | Guy Filippelli (Founder/MP), **Lisa Costa (Partner, joined 2024)**, Davey Gibian (VP), Meghan McGee (Platform) · linkedin.com/company/squadra-ventures |
+| **Lux Capital** (NYC) | Very active seed lead: Agon $23M seed (lead, Jul 2026), SkyPilot $20M seed (lead, Jul 2026). 672 investments, 179 leads. Venture partners include **James Woolsey (ex-CIA director) and Tony Thomas (ex-SOCOM commander)** — deep natsec bench | Josh Wolfe, Peter Hebert (MPs), Shahin Farshchi, Deena Shakir, Brandon Reeves · info@luxcapital.com, 646-475-4385 |
+| **8VC** (now Austin) | Led Fluxco $26M seed (Jul 2026); **re-upped Coram AI at Series B, Jun 2026** — camera-AI conviction is current, not historical. 684 investments, 206 leads | Joe Lonsdale (Founder/GP), Jake Medwell, Drew Oetting, Kimmy Scotti (Founding Partners) · media@8vc.com |
+| **Matrix** (Cambridge, MA — now matrix.vc) | **Still in Flock Safety** (participated in its $200M Series I, Apr 2026); leading seeds: Deeptrace $5M (Mar 2026), Giant $8M (Feb 2026) | Ilya Sukhar (the Flock partner, still listed), Antonio Rodriguez, Patrick Malatack, Stan Reiss, Kojo Osei · (617) 494-1223 |
+| **Moonshots Capital** (Austin) | Led InfoHawk $2.25M **pre-seed** (Jun 2026, AI deception detection — adjacent thesis); Gallatin seed (defense logistics), ID.me follow-on. 137 investments, 27 leads | Kelly Perdew (Managing GP), Craig Cummings (GP) · linkedin.com/company-beta/6589830 |
+| **DataTribe** (Fulton, MD) | Leading seeds: Rilevera $3M (lead, Oct 2025), Frenos $3.9M (lead, Jan 2025), ContraForce $3.25M (lead). **Rob Joyce (former NSA Cybersecurity Director) joined as venture partner Jan 2025.** MD Tech Council "Investor of the Year" 2026 | Bob Ackerman, Mike Janke, Steven Witt (co-founders) · info@datatribe.com, +1-202-650-0009 |
+
+## Still to enrich (quota-limited; aliases to retry)
+
+M13, First Round Capital, Govtech Fund (slug ≠ `govtech-fund` — find via search), Octave Ventures, Dreamit Ventures, and the European funds. Ambient.ai/Prepared a16z partner attribution and warm-intro mapping also remain open.
