@@ -10,5 +10,5 @@
   "enabledPlugins": {
     "lead-search@lead-search-marketplace": true
   },
-  "enabledMcpjsonServers": ["anysite"]
+  "enabledMcpjsonServers": ["anysite", "crunchbase"]
 }

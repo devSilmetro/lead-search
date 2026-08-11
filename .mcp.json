@@ -3,6 +3,10 @@
     "anysite": {
       "type": "http",
       "url": "https://mcp.anysite.io/mcp?api_key=${ANYSITE_API_KEY}"
+    },
+    "crunchbase": {
+      "type": "http",
+      "url": "https://mcp.crunchbase.com"
     }
   }
 }
