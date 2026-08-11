@@ -139,6 +139,11 @@ Ten priority funds verified against live Crunchbase profiles (activity, recent d
 | **Moonshots Capital** (Austin) | Led InfoHawk $2.25M **pre-seed** (Jun 2026, AI deception detection — adjacent thesis); Gallatin seed (defense logistics), ID.me follow-on. 137 investments, 27 leads | Kelly Perdew (Managing GP), Craig Cummings (GP) · linkedin.com/company-beta/6589830 |
 | **DataTribe** (Fulton, MD) | Leading seeds: Rilevera $3M (lead, Oct 2025), Frenos $3.9M (lead, Jan 2025), ContraForce $3.25M (lead). **Rob Joyce (former NSA Cybersecurity Director) joined as venture partner Jan 2025.** MD Tech Council "Investor of the Year" 2026 | Bob Ackerman, Mike Janke, Steven Witt (co-founders) · info@datatribe.com, +1-202-650-0009 |
 
-## Still to enrich (quota-limited; aliases to retry)
+## Closed via web research (2026-08-11)
 
-M13, First Round Capital, Govtech Fund (slug ≠ `govtech-fund` — find via search), Octave Ventures, Dreamit Ventures, and the European funds. Ambient.ai/Prepared a16z partner attribution and warm-intro mapping also remain open.
+- **Octave Ventures** — Henderson, NV; founded 2018; deep-tech/biotech arms ("Octave Tech Investment", "Octave Life Sciences"). Founder **Michael Kim** led ZeroEyes' $20.9M Series A and its $23M follow-on and **sits on ZeroEyes' board** — the named door into the one fund that has led early K-12 weapons-detection rounds.
+- **Govtech Fund** — no new fund found after Fund II ($25M; ~$50M total). Nominally active, but **confirm dry powder before prioritizing**; Ron Bouganim remains sole managing partner.
+
+## Still to enrich (optional)
+
+M13, First Round Capital, Dreamit (all well-known active seed investors — remaining gap is only contact/partner mapping), the European funds, and Ambient.ai/Prepared a16z partner attribution. Warm-intro mapping remains open.
