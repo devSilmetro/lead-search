@@ -100,7 +100,6 @@ A,7,person,Johann Beishline,,(angel),cap-table,,,,,Invested in: SkyeBrowse (seed
 A,7,person,James Isilay,,(angel),cap-table,,,,,Invested in: SkyeBrowse (seed 2022),tierA-captable
 A,7,person,Nick Osgood,,(angel),cap-table,,,,,Invested in: SkyeBrowse (seed 2022),tierA-captable
 A,7,firm,Brinc,(firm — partner unresolved),Brinc,cap-table,,,,,Invested in: SkyeBrowse (pre-seed 2018),tierA-captable
-A,7,firm,8VC,(firm — partner unresolved),8VC,cap-table,,,,,Invested in: Sauron (seed 2024),tierA-captable
 A,7,firm,Atomic,(firm — partner unresolved),Atomic,cap-table,,,,,Invested in: Sauron (seed 2024),tierA-captable
 A,7,firm,Daybreak ventures,(firm — partner unresolved),Daybreak ventures,cap-table,,,,,Invested in: Aslan Protects (pre-seed 2025),tierA-captable
 A,7,firm,Precursor Ventures,(firm — partner unresolved),Precursor Ventures,cap-table,,,,,Invested in: Aslan Protects (pre-seed 2025),tierA-captable
@@ -130,13 +129,7 @@ A,7,person,Ken Fichtler,,(angel),cap-table,,,,,Invested in: Gaize (seed 2022),ti
 A,7,person,Adrian Aoun,,(angel),cap-table,,,,,Invested in: Gaize (seed 2022),tierA-captable
 A,7,person,Fritz Lanman,,(angel),cap-table,,,,,Invested in: Gaize (seed 2022),tierA-captable
 A,7,person,Scott Banister,,(angel),cap-table,,,,,Invested in: Gaize (seed 2022),tierA-captable
-A,7,firm,Hustle Fund,(firm — partner unresolved),Hustle Fund,cap-table,,,,,Invested in: Kaiden AI (pre-seed 2025),tierA-captable
-A,7,firm,43,(firm — partner unresolved),43,cap-table,,,,,Invested in: Kaiden AI (pre-seed 2025),tierA-captable
-A,7,firm,ZAKA VC,(firm — partner unresolved),ZAKA VC,cap-table,,,,,Invested in: EdgeTrace (pre-seed 2024),tierA-captable
-A,7,firm,Karman Ventures,(firm — partner unresolved),Karman Ventures,cap-table,,,,,Invested in: EdgeTrace (pre-seed 2024),tierA-captable
-A,7,firm,LvlUp Ventures,(firm — partner unresolved),LvlUp Ventures,cap-table,,,,,Invested in: PerVista AI (pre-seed 2025),tierA-captable
 A,7,person,Bashar Hamood,,(angel),cap-table,,,,,Invested in: Kazoo (seed 2021),tierA-captable
-A,7,firm,FasterCapital,(firm — partner unresolved),FasterCapital,cap-table,,,,,Invested in: Kazoo (seed 2021),tierA-captable
 A,7,person,Hesham Zreik,,(angel),cap-table,,,,,Invested in: Kazoo (seed 2021),tierA-captable
 A,7,firm,BK-XL,(firm — partner unresolved),BK-XL,cap-table,,,,,Invested in: WearOpal (pre-seed 2023),tierA-captable
 A,7,firm,FuzeHub,(firm — partner unresolved),FuzeHub,cap-table,,,,,Invested in: WearOpal (pre-seed 2023),tierA-captable
@@ -788,6 +781,18 @@ B,6,person,Gustavo Gonzalez,Managing Partner,Elevate Ventures,security,United St
 B,6,person,Brian Montminy,Operating Partner,Elevate Ventures,security,"Bloomington, Indiana, United States",https://www.linkedin.com/in/brian-montminy,Chief Operating Officer at Stitch,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
 B,6,person,Lauren Lyon,Operating Partner and Investor,Headline,security,"San Francisco, California, United States",https://www.linkedin.com/in/laurenalyon,Partner at Headline,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
 B,6,person,Matthew Brown,Principal,Headline,security,"San Francisco, California, United States",https://www.linkedin.com/in/matthew-brown-52785a34,Principal at Headline,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Karen White,Executive Partner,8VC,security,"San Francisco Bay Area, United States",https://www.linkedin.com/in/karen-white-65244755,Executive Partner at 8VC,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Nick Dolik,Partner,8VC,security,"New York, New York, United States",https://www.linkedin.com/in/ndolik,Partner at 8VC,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Dave Clark,General Partner,Karman Ventures,security,United Kingdom,https://www.linkedin.com/in/davidacclark,Partner at Karman Ventures,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Amr Al-Shihabi,General Partner,Karman Ventures,security,"Santa Monica, California, United States",https://www.linkedin.com/in/amr-alshihabi,GP @ Karman Ventures | Proud Uber alum,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Shiyan K.,Co-Founder & Managing Partner,Hustle Fund,security,Singapore,https://www.linkedin.com/in/shiyankoh,Managing Partner at Hustle Fund,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Eric Bahn,"Co-Founder, General Partner",Hustle Fund,security,San Francisco Bay Area,https://www.linkedin.com/in/ericbahn,Minivan Enthusiast at Hustle Fund,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Pavlos Ch. Kalemkeris,Regional Partner,FasterCapital,security,Greece,https://www.linkedin.com/in/pavlos-ch-kalemkeris-b5561a31,"Business, Art & Culture Development",,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Champ Muthle,Program Partner,FasterCapital,security,"Las Vegas, Nevada, United States",https://www.linkedin.com/in/champ-muthle-119583303,Forbes 30 Under 30 - Social Entrepreneurship,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Aaron Golbin,General Partner,LvlUp Ventures,security,Miami-Fort Lauderdale Area,https://www.linkedin.com/in/aarongolbin,"General Partner at LvlUp Ventures | #7 Most Active VC Firm Globally, #4 in the U.S. and #1 in Consumer Goods & Technology — PitchBook | 4x Forbes",,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Sharon Ann Holm,Dealflow Partner,LvlUp Ventures,security,"Miami Beach, Florida, United States",https://www.linkedin.com/in/sharonaholm,Venture & Early-Stage Investing | Board-Level Advisor | Strategic Growth & Governance | Global Operator,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,"Ján Kasper, PhD., MBA, PhD.",Managing Partner & Co-Founder,ZAKA VC,security,Sign in with Email,https://www.linkedin.com/in/ján-kasper-phd-mba-phd-508703255,Co-Founder & Managing Partner @ZAKA.VC,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Anabel Paksoy,Co-Founder,43,security,"San Francisco, California, United States",https://www.linkedin.com/in/anabelpaksoy,people ops obsessive + earliest stage investor,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
 C,5,person,Michael S. Kim,Founder & CEO,Octave Ventures,VC,Henderson NV US,LI not found,,,Led ZeroEyes Series A twice; ZeroEyes board,wave1-curated+enriched
 C,5,person,Brian Hirsch,Co-founder & Managing Partner,Tribeca Venture Partners,NYC VC,New York City Metropolitan Area,https://www.linkedin.com/in/brianhirsch,Founder & Managing Partner @ Tribeca Venture Partners,,Quoted partner on Actuate Series A,wave1-curated+enriched
 C,5,person,Veronica Daigle,Partner & President NatSec,Red Cell Partners,Venture studio,United States,https://www.linkedin.com/in/veronica-daigle-0b40b620a,"President, National Security Practice @ Red Cell Partners",,Ex-Asst SecDef; Red Cell incubates own cos,wave1-curated+enriched
