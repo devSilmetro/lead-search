@@ -149,11 +149,9 @@ A,7,person,Valentin Schmitt,,(angel),cap-table,,,,,Invested in: promiseQ (seed 2
 A,7,firm,ExtraVallis,(firm — partner unresolved),ExtraVallis,cap-table,,,,,Invested in: promiseQ (seed 2023),tierA-captable
 A,7,person,Ulrich Schmitt,,(angel),cap-table,,,,,Invested in: promiseQ (seed 2023),tierA-captable
 A,7,person,René Helbig,,(angel),cap-table,,,,,Invested in: promiseQ (pre_seed 2022),tierA-captable
-A,7,firm,APX,(firm — partner unresolved),APX,cap-table,,,,,Invested in: promiseQ (pre_seed 2022),tierA-captable
 A,7,firm,Migdal Insurance and Financial Holdings,(firm — partner unresolved),Migdal Insurance and Financial Holdings,cap-table,,,,,Invested in: viisights (series_a 2021),tierA-captable
 A,7,firm,Hive2040,(firm — partner unresolved),Hive2040,cap-table,,,,,Invested in: viisights (series_a 2021),tierA-captable
 A,7,firm,Firstime Venture Capital,(firm — partner unresolved),Firstime Venture Capital,cap-table,,,,,Invested in: viisights (series_a 2021),tierA-captable
-A,7,firm,LETA Capital,(firm — partner unresolved),LETA Capital,cap-table,,,,,Invested in: viisights (series_a),tierA-captable
 A,7,firm,Altair Ventures,(firm — partner unresolved),Altair Ventures,cap-table,,,,,Invested in: viisights (series_a),tierA-captable
 A,7,firm,Maxfield Capital,(firm — partner unresolved),Maxfield Capital,cap-table,,,,,Invested in: viisights (series_a),tierA-captable
 A,7,firm,Skywell Capital Partners,(firm — partner unresolved),Skywell Capital Partners,cap-table,,,,,Invested in: viisights (seed 2016),tierA-captable
@@ -164,10 +162,7 @@ A,7,firm,Swisscanto Private Equity,(firm — partner unresolved),Swisscanto Priv
 A,7,firm,Credit Suisse Entrepreneur Capital,(firm — partner unresolved),Credit Suisse Entrepreneur Capital,cap-table,,,,,Invested in: Fotokite (series_b),tierA-captable
 A,7,firm,MSA Safety,(firm — partner unresolved),MSA Safety,cap-table,,,,,Invested in: Fotokite (series_b 2022),tierA-captable
 A,7,firm,SICTIC,(firm — partner unresolved),SICTIC,cap-table,,,,,Invested in: Fotokite (series_b),tierA-captable
-A,7,firm,Sony Innovation Fund,(firm — partner unresolved),Sony Innovation Fund,cap-table,,,,,Invested in: Fotokite (series_b),tierA-captable
-A,7,firm,Credit Suisse,(firm — partner unresolved),Credit Suisse,cap-table,,,,,Invested in: Fotokite (series_a 2019),tierA-captable
 A,7,firm,GENIUS NY,(firm — partner unresolved),GENIUS NY,cap-table,,,,,Invested in: Fotokite (convertible_note 2018),tierA-captable
-A,7,firm,EEC Ventures,(firm — partner unresolved),EEC Ventures,cap-table,,,,,Invested in: SmokeD System Inc. (seed 2022),tierA-captable
 A,7,firm,KnowledgeHub,(firm — partner unresolved),KnowledgeHub,cap-table,,,,,Invested in: SmokeD System Inc. (seed),tierA-captable
 A,7,firm,EDGE Group,(firm — partner unresolved),EDGE Group,cap-table,,,,,Invested in: High Lander (series_a 2023),tierA-captable
 A,7,firm,Paras Aerospace,(firm — partner unresolved),Paras Aerospace,cap-table,,,,,Invested in: High Lander (seed 2020),tierA-captable
@@ -804,6 +799,15 @@ B,6,person,Marc Menasé,Founding Partner,Founders Future,security,United States,
 B,6,person,Guillaume Simonaire,Partner,Founders Future,security,"Paris, Île-de-France, France",https://www.linkedin.com/in/guillaumesimonaire,Partner @Founders Future,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
 B,6,person,Tim McDonald,"Founder, Managing Director, Head of the CEO and Board Practices",True.,security,Greater Philadelphia,https://www.linkedin.com/in/tim-mcdonald-686ba8,"Founder, Managing Director, Head of the CEO and Board Practices",,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
 B,6,person,Liam Buswell,Managing Director,True.,security,"London, England, United Kingdom",https://www.linkedin.com/in/liam-buswell,"Managing Director at True | Strategy, Value Creation & New Tech | Retail & Consumer",,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Eduard Bart,CFO / Co-Founder at APX,APX,security,"Frankfurt Rhine-Main Metropolitan Area, Germany",https://www.linkedin.com/in/eduard-bart-2709072bb,CFO / Co-Founder APX,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Giorgi Gulmagarashvili,Founder,APX,security,United Kingdom,https://www.linkedin.com/in/giorgi-gulmagarashvili,Founder at Apex | Private executive dinners connecting cybersecurity & AI vendors with the CISOs and CTOs their pipeline depends on | UK · US · EU,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Vahan M.,General Partner,LETA Capital,security,Georgia,https://www.linkedin.com/in/vahan-m-98b64713,General Partner,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Sergey Toporov,Partner,LETA Capital,security,"London, England, United Kingdom",https://www.linkedin.com/in/sergey-toporov,Partner at LETA Capital,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,viviane de angelis,managing director,Credit Suisse,security,luxembourg,https://www.linkedin.com/in/viviane-de-angelis-9b399761,retired,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Marinela Tudoran,Managing Director,Credit Suisse,security,"New York, New York, United States",https://www.linkedin.com/in/marinela-tudoran-81204911,Investment Bank CIO at Credit Suisse,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Michal Lasocki,Partner,EEC Ventures,security,Poland,https://www.linkedin.com/in/michallasocki,"Partner @ EEC Ventures, a leading VC fund investing in innovative companies from the energy transition, climate and digital transformation domains | 3x entrepreneur with successful exits",,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Konrad Sitnik,Partner,EEC Ventures,security,Warsaw Metropolitan Area,https://www.linkedin.com/in/konrad-sitnik-4a8a741,Co-founder & Partner at EEC Ventures,,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
+B,6,person,Austin Noronha,"Managing Director, Sony Ventures",Sony Innovation Fund,security,San Francisco Bay Area,https://www.linkedin.com/in/austin-noronha-448526,"Managing Director, Sony Innovation Fund",,Partner at thesis-fit fund (security); alias-verified current role,tierB-thesis-firm-partner
 C,5,person,Michael S. Kim,Founder & CEO,Octave Ventures,VC,Henderson NV US,LI not found,,,Led ZeroEyes Series A twice; ZeroEyes board,wave1-curated+enriched
 C,5,person,Brian Hirsch,Co-founder & Managing Partner,Tribeca Venture Partners,NYC VC,New York City Metropolitan Area,https://www.linkedin.com/in/brianhirsch,Founder & Managing Partner @ Tribeca Venture Partners,,Quoted partner on Actuate Series A,wave1-curated+enriched
 C,5,person,Veronica Daigle,Partner & President NatSec,Red Cell Partners,Venture studio,United States,https://www.linkedin.com/in/veronica-daigle-0b40b620a,"President, National Security Practice @ Red Cell Partners",,Ex-Asst SecDef; Red Cell incubates own cos,wave1-curated+enriched
